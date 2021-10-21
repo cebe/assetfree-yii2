@@ -4,7 +4,7 @@
 	"type": "library",
 	"require": {
 		"php": ">=5.4.0",
-		"yiisoft/yii2": "=2.0.24"
+		"yiisoft/yii2": "=2.0.25"
 	},
 	"replace": {
 		"bower-asset/jquery": "*",
