@@ -12,12 +12,5 @@
 		"bower-asset/inputmask": "*",
 		"bower-asset/punycode": "*",
 		"bower-asset/yii2-pjax": "*"
-	},
-	"conflict": {
-		"bower-asset/jquery": "*",
-		"bower-asset/jquery.inputmask": "*",
-		"bower-asset/inputmask": "*",
-		"bower-asset/punycode": "*",
-		"bower-asset/yii2-pjax": "*"
 	}
 }
