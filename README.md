@@ -19,4 +19,4 @@ do not need any asset functionality anyway you may use this package instead of r
 Magic: https://github.com/cebe/assetfree-yii2/blob/2.0.0/composer.json#L9-L14 :)
 
 This package claims to "[provide](https://getcomposer.org/doc/04-schema.md#provide)" the required asset packages which are only
-available when composer-asset-plugin ist installed. In reallity no asset packages are installed, so this is only useful in cases [where you do not need them](#why).
+available when composer-asset-plugin is installed. In reallity no asset packages are installed, so this is only useful in cases [where you do not need them](#why).
